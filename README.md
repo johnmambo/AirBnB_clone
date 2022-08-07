@@ -6,3 +6,7 @@ This project aims to implement the back-end console of the AirBnB web applicatio
 
 # AirBnB clone - Web static
 This projects aims at teaching the basics of HTML and CSS styling using the concept of the AirBnB website.
+
+# Authors
+- John
+- Blessing
